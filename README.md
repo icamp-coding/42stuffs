@@ -15,4 +15,4 @@ sparking point for my coding journey..
 
 # Projects ✌️
 
-* [ft_putchar]() : Print character with write function.
+* [ft_putchar](https://github.com/icamp-coding/42stuffs/blob/main/ft_putchar.c) : Print character with write function.
