@@ -16,3 +16,8 @@ sparking point for my coding journey..
 # Projects ✌️
 
 * [ft_putchar](https://github.com/icamp-coding/42stuffs/blob/main/ft_putchar.c) : Print character with write function.
+* [ft_print_alphabet](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_alphabet.c) : Print alphabet from a-z.
+* [ft_print_reverse _alphabet](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_reverse_alphabet.c) : Print alphabet from z-a.
+* [ft_print_number](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_numbers.c) : Print a single digit from 0-9.
+* [ft_negative](https://github.com/icamp-coding/42stuffs/blob/main/ft_is_negative.c) : Display "N" or "P" if letter is negative or positive.
+* [ft_print_comb](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_comb.c) : Display all combinations in ascending order without repetition.
