@@ -21,3 +21,12 @@ sparking point for my coding journey..
 * [ft_print_number](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_numbers.c) : Print a single digit from 0-9.
 * [ft_negative](https://github.com/icamp-coding/42stuffs/blob/main/ft_is_negative.c) : Display "N" or "P" if letter is negative or positive.
 * [ft_print_comb](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_comb.c) : Display all combinations in ascending order without repetition.
+* [ft_ft](https://github.com/icamp-coding/42stuffs/blob/main/ft_ft.c) : Introduction of pointer.
+* [ft_ultimate_ft](https://github.com/icamp-coding/42stuffs/blob/main/ft_ultimate_ft.c) : 9 pointers.
+* [ft_swap](https://github.com/icamp-coding/42stuffs/blob/main/ft_swap.c) : Swap value in integer.
+* [ft_div_mod](https://github.com/icamp-coding/42stuffs/blob/main/ft_div_mod.c) : Divides value and store result in integer pointer.
+* [ft_ultimate_dic_mod](https://github.com/icamp-coding/42stuffs/blob/main/ft_ultimate_div_mod.c) : Divides value and transfer the result in remainder
+* [ft_]() :
+* [ft_]() :
+* [ft_]() :
+* [ft_]() :
