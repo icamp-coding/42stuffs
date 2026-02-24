@@ -5,7 +5,7 @@ These are my 42 School, a coding school that introduced me to the world of progr
 # Story time 📖
 I don't have much coding skill to begin with but one thing I know is **world is changing and I need to keep up** 🌏 
 So I started to look for a coding school for beginner. Until I met ***"42School"*** recommended by my consin who
-studied data analysis so I gave it a shot. It was tough at first, self/peer-to-peer learning and C language focus 🧑‍💻. 
+studied data analysis so I gave it a shot. Start of we will have to pass "Piscine"(Entry projects and exam) in order to be a student. It was tough at first, self/peer-to-peer learning and C language focus 🧑‍💻. 
 I was struggled since I got used to learning from instructor/teacher but I kept going 
 **"It's not impossible, it's just a new thing"** 😄 
 
@@ -13,7 +13,7 @@ Months later, I got email from the school said I was passed the exam and accepte
 I could not believe that I **started from know nothing about coding nor logic** This is a huge milestone and
 sparking point for my coding journey..
 
-# Projects ✌️
+# Entry Projects ✌️
 
 * [ft_putchar](https://github.com/icamp-coding/42stuffs/blob/main/ft_putchar.c) : Print character with write function.
 * [ft_print_alphabet](https://github.com/icamp-coding/42stuffs/blob/main/ft_print_alphabet.c) : Print alphabet from a-z.
@@ -26,7 +26,7 @@ sparking point for my coding journey..
 * [ft_swap](https://github.com/icamp-coding/42stuffs/blob/main/ft_swap.c) : Swap value in integer.
 * [ft_div_mod](https://github.com/icamp-coding/42stuffs/blob/main/ft_div_mod.c) : Divides value and store result in integer pointer.
 * [ft_ultimate_dic_mod](https://github.com/icamp-coding/42stuffs/blob/main/ft_ultimate_div_mod.c) : Divides value and transfer the result in remainder
-* [ft_]() :
-* [ft_]() :
+* [ft_putstr](https://github.com/icamp-coding/42stuffs/blob/main/ft_putstr.c) : Display a string of character on the standard output.
+* [ft_strlen](https://github.com/icamp-coding/42stuffs/blob/main/ft_strlen.c) : Count and returns the numbers of character in a string.
 * [ft_]() :
 * [ft_]() :
